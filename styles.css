@@ -1,0 +1,17 @@
+.logo{
+	width: 100px;
+	margin-top: 15px;
+	margin-bottom: 60px;
+	vertical-align: middle;
+}
+ul{
+	list-style: none;
+	font-size: 22px;
+	vertical-align: middle;
+	width: 100px;
+	display: inline-block;
+
+}
+#menu{
+	color: red;
+}

@@ -1,0 +1,45 @@
+.box{
+	width: 100px;
+	margin-top: 15px;
+	margin-bottom: 60px;
+	vertical-align: middle;
+}
+ul{
+	list-style: none;
+	font-size: 22px;
+	vertical-align: middle;
+	width: 500px;
+	display: inline-block;
+
+}
+.mtavari{
+	color: #EE4036;
+}
+.h{
+	margin: 60px;
+    border: 0;
+    font-size: 24px;
+    font: inherit;
+    vertical-align: middle;
+    padding-top: 80px;
+}
+.p2{
+	margin: 100px;
+    border: 0;
+    font-size: 22px;
+    font: inherit;
+    vertical-align: middle;
+    padding-top: 80px;
+}
+.img2{
+    background-color: #F2F2F2;
+	vertical-align: middle;
+}
+.about1{
+	margin: 5px;
+    padding: 0;
+    border: 0;
+    font-size: 20px;
+    font: inherit;
+    vertical-align: middle;
+}
